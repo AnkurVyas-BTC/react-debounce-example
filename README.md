@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://raw.githubusercontent.com/AnkurVyas-BTC/react-debounce-example/master/Final%20debouce.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
